@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 13.00
+# Visual Studio 2013
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GWDatBrowser", "GWDatBrowser\GWDatBrowser.vcxproj", "{8DCE7FDD-E7F6-470B-BC9F-52D4A4BFCB2A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ResizableLib", "ResizableLib\ResizableLib.vcxproj", "{0F41FE31-4C5A-4A6E-9511-F66413FDFCCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DCE7FDD-E7F6-470B-BC9F-52D4A4BFCB2A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8DCE7FDD-E7F6-470B-BC9F-52D4A4BFCB2A}.Debug|Win32.Build.0 = Debug|Win32
+		{8DCE7FDD-E7F6-470B-BC9F-52D4A4BFCB2A}.Release|Win32.ActiveCfg = Release|Win32
+		{8DCE7FDD-E7F6-470B-BC9F-52D4A4BFCB2A}.Release|Win32.Build.0 = Release|Win32
+		{0F41FE31-4C5A-4A6E-9511-F66413FDFCCF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0F41FE31-4C5A-4A6E-9511-F66413FDFCCF}.Debug|Win32.Build.0 = Debug|Win32
+		{0F41FE31-4C5A-4A6E-9511-F66413FDFCCF}.Release|Win32.ActiveCfg = Release|Win32
+		{0F41FE31-4C5A-4A6E-9511-F66413FDFCCF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
